@@ -612,7 +612,4 @@ NEWTV欢乐剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225742/index.m3
 百视通直播8,http://111.48.34.138/000000001000PLTV/88888888/224/3221230069/1.m3u8
 百视通直播9,http://111.48.34.138/000000001000PLTV/88888888/224/3221230067/1.m3u8
 百视通直播10,http://111.48.34.138/000000001000PLTV/88888888/224/3221230065/1.m3u8
-凤凰频道,#genre#
-凤凰卫视,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+
